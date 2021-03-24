@@ -6,11 +6,11 @@ Scratch and win game using flutter
 ## Screenshots
 
 <p>
-  <img src="./Screenshots/ss1.png" width="350" title="SS1"> 
-  <img src="./Screenshots/ss2.png" width="350" title="SS2">
-  <img src="./Screenshots/ss3.png" width="350" title="SS3">
-  <img src="./Screenshots/ss4.png" width="350" title="SS4"> 
-  <img src="./Screenshots/ss5.png" width="350" title="SS5">  
+  <img src="./Screenshots/ss1.png" width="350" height="450" title="SS1"> 
+  <img src="./Screenshots/ss2.png" width="350" height="450" title="SS2">
+  <img src="./Screenshots/ss3.png" width="350" height="450" title="SS3">
+  <img src="./Screenshots/ss4.png" width="350" height="450" title="SS4"> 
+  <img src="./Screenshots/ss5.png" width="350" height="450" title="SS5">  
 </p>
 
 ## Getting Started
