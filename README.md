@@ -1,3 +1,3 @@
-# Basic-Game-Apps
+# Flutter-Gamess
 
-Basic Game apps
+Games made using Flutter
