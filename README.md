@@ -1,3 +1,3 @@
-# Flutter-Gamess
+# Flutter-Games
 
 Games made using Flutter
